@@ -1,0 +1,9 @@
+{
+    "telegram_token": "8285222383:AAFQeDn-ABYqfCBD-elGINSBhBzRv9uyzUo",
+    "chat_id": "-1003156829333",
+    "timeframe": "5m",
+    "volume_filter": 100000000.0,
+    "price_change_filter": true,
+    "price_change_threshold": 5.0,
+    "bot_status": true
+}
