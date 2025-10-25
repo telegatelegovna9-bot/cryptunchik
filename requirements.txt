@@ -1,18 +1,10 @@
-﻿python-telegram-bot==22.5
-aiohttp==3.8.6
-APScheduler==3.6.3
-pytz==2025.2
-pandas==2.3.3
-numpy==2.2.6
-TA-Lib==0.6.7
-requests==2.32.5
-cryptography==46.0.2
-cffi==2.0.0
-python-binance==1.0.30
-dateparser==1.2.2
-tzlocal==5.3.1
-yarl==1.22.0
-multidict==6.7.0
+python-telegram-bot==22.5
+pytz==2024.1
+apscheduler==3.10.4
+pandas==2.2.2
+numpy==1.26.4
+aiohttp==3.9.5
+
 
 
 
